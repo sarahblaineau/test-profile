@@ -1,0 +1,44 @@
+h1 {
+  color: seagreen;
+	font-size: 30px;
+	font-family: century gothic;
+}
+h3{
+	color: #e0607e;
+	font-size: 20px;
+	font-family: century gothic;
+}
+
+body{
+	color: #090c02;
+	background-color:#cfd4c5;
+	font-family: calibri light;
+	text-align: center;
+	font-weight: lighter;
+	line-height: 1;
+}
+#photo{
+	width: 100px;
+	border-radius:50%;
+}
+.icone{
+	width: 40px;
+	border-radius: 50%;
+}
+a{
+	color:#550527;
+	text-decoration:underline #550527;
+}
+ul{
+	text-align: left;
+	color:#550527;
+}
+div{
+	border: dashed ;
+	box-shadow: 4px 4px 6px #F793AA;
+	padding: 30px;
+	background: #E0E7D2;
+	width: 400px;
+	margin:30px 400px;
+
+}
